@@ -23,7 +23,7 @@ The Spotify UI Concept project aims to recreate the visually appealing and user-
 
 To run the Spotify UI Concept locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/saidjohn/spotifyUI.git`
+1. Clone the repository: `git clone https://github.com/diyorbekshokirov/Spotify_Ui.git`
 2. Open the project in your preferred IDE or code editor.
 3. Ensure you have Flutter SDK installed.
 4. Run `flutter pub get` to fetch the project dependencies.
@@ -45,8 +45,7 @@ Contributions to this project are welcome. If you have any suggestions, bug fixe
 If you have any questions or suggestions, feel free to reach out:
 
 
-- Email: [saidjon.ibn.usmon@gmail.com](mailto:saidjon.ibn.usmon@gmail.com)
-- LinkedIn: [Saidjon Saidov](linkedin.com/in/saidjonsaidov)
-- Website: [saidjonsaidov.netlify.app](http://saidjonsaidov.netlify.app)
+- Email: [shokirovdiyorbek629@gmail.com](mailto:shokirovdiyorbek629@gmail.com)
+
 
 Thank you for checking out the Spotify UI Concept project!
